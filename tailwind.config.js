@@ -10,6 +10,10 @@ export default {
         Poppins: ['Poppins', 'Lato'],
         Playfair_Display : ['Playfair Display','merriweather']
       },
+      colors: {
+        marble: '#F2F8FC',
+        
+    },
     },
   },
   plugins: [],
