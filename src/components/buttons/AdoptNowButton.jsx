@@ -1,7 +1,7 @@
 
 const AdoptNowButton = () => {
     return (
-        <button className=" text-white w-fit p-4 px-8 rounded-lg text-2xl bg-black">
+        <button className=" text-white p-4 px-8 md:text-2xl bg-action rounded-lg border border-action font-semibold">
             Adopt Now
         </button>
     );

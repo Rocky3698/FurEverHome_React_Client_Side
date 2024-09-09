@@ -5,8 +5,8 @@ import SignIn from '../components/buttons/SignIn';
 import NavLinks from '../components/NavLinks';
 const Navbar = () => {
     return (
-        <nav className="border border-[#5A5A5A] rounded-lg p-3 m-2 font-Poppins">
-            <div className="container mx-auto flex justify-between items-center">
+        <nav className="p-3 pt-5 font-Poppins border-b border-tertiary">
+            <div className="container mx-auto flex justify-between items-center ">
                 <Logo></Logo>
                 <NavLinks></NavLinks>
                 <div className='md:flex gap-5 items-center hidden'>

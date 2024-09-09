@@ -1,0 +1,11 @@
+<svg width="357.909332" height="349.766632" viewBox="0 0 357.909 349.767" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<desc>
+			Created with Pixso.
+	</desc>
+	<defs/>
+	<path id="Vector 1" d="M295.48 23.79C257.03 319.5 77.1 94.5 43.85 310.16" stroke="#BCA37F" stroke-opacity="0.700000" stroke-width="1.000000"/>
+	<path id="inner Circle" d="M41.87 312.85C38.76 313.1 36.44 315.78 36.69 318.85C36.94 321.91 39.66 324.18 42.77 323.93C45.88 323.68 48.2 320.99 47.95 317.93C47.7 314.87 44.98 312.59 41.87 312.85Z" fill="#BCA37F" fill-opacity="1.000000" fill-rule="evenodd"/>
+	<path id="outer Circle" d="M33.87 319.07C34.25 323.66 38.33 327.08 42.99 326.7C47.66 326.32 51.14 322.29 50.76 317.7C50.39 313.11 46.31 309.69 41.64 310.07C36.98 310.45 33.5 314.48 33.87 319.07Z" stroke="#113946" stroke-opacity="0.500000" stroke-width="1.000000"/>
+	<path id="Vector 2" d="M32.2 220.17L146.2 214.21" stroke="#BCA37F" stroke-opacity="0.500000" stroke-width="1.000000"/>
+	<ellipse id="center circle" rx="5.647768" ry="5.560681" transform="matrix(0.999984 0.00560328 -0.00841727 0.999969 89.1261 217.784)" fill="#BCA37F" fill-opacity="1.000000"/>
+</svg>

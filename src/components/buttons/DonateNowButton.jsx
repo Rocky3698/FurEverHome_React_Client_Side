@@ -1,8 +1,8 @@
 
 const DonateNowButton = () => {
     return (
-        <button className="border border-[#5A5A5A] hover:bg-black hover:text-white w-fit p-4 px-8 rounded-lg text-2xl">
-            Donate Now
+        <button className="border-tertiary border-2 font-semibold font-Playfair_Display hover:bg-action hover:border-action hover:text-white w-fit p-4 px-8 rounded-lg md:text-2xl">
+            Donate Us
         </button>
     );
 };
